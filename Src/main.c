@@ -2,6 +2,7 @@
 #include "add.h"
 #include "mul.h"
 #include "sub.h"
+#include "div.h"
 
 int main() {
     int a;
@@ -16,6 +17,7 @@ int main() {
     printf("Sum : %d\n", add(a,b));
     printf("Difference : %d\n", sub(a,b));
     printf("Product : %d\n", mul(a,b));
+    printf("Quotient : %f\n", div((float)a,(float)b));
 
     return 0;
 }
