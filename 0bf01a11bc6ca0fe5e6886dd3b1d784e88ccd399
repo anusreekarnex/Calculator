@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a327645f_86bfca8f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1039007
+      },
+      "writtenOn": "2025-09-30T12:02:21Z",
+      "side": 1,
+      "message": "change text file anusree",
+      "revId": "0bf01a11bc6ca0fe5e6886dd3b1d784e88ccd399",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4fbac6a0_283965df",
+        "filename": "hello.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1039007
+      },
+      "writtenOn": "2025-09-30T12:02:21Z",
+      "side": 1,
+      "message": "make it a greeting in caps",
+      "revId": "0bf01a11bc6ca0fe5e6886dd3b1d784e88ccd399",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
